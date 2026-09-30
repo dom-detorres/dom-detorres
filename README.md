@@ -24,7 +24,27 @@ A conservation-focused web app inspired by iNaturalist, letting users log and sh
   <img src="https://img.shields.io/badge/Live%20Demo-Momodex-2ea44f?style=for-the-badge&logo=render" width="180"/>
 </a>
 
+###  [Geo Collection](https://github.com/dom-detorres/my-fullstack-collection/tree/DOm)
+
+A CRUD app built as practice for full stack fundamentals.
+- **My Role:** Solo practice project.
+- **Tech:** React, TypeScript, Node, SQL (via Knex), Firebase, Cloudinary, Google Gemini API, iNaturalist API.
+
+<br>
+
+<a href="https://my-fullstack-collection-iaca.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Geo%20Collection-2ea44f?style=for-the-badge&logo=render" width="180"/>
+</a>
+
 ---
+
+## Currently Working On
+- Learning **Azure** to understand cloud deployment and infrastructure
+-  Picking up **Docker** basics for containerising apps
+-  Polsihing up my **SQL** skills as we only learned Knex
+
+---
+
 
 ### Connect with me:
 
