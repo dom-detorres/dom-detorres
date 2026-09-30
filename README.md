@@ -2,20 +2,27 @@
 
 ### Full Stack Developer | Bringing hardware experience and curiosity to software
 
--  I'm currently working on **[Momodex](https://github.com/Hotoke-2026/Momodex)**, a conservation app for logging native NZ wildlife, and **[Foodie](https://github.com/dom-detorres/Foodie)**, a pantry app I'm building with my partner
--  I'm currently learning more about **Cloud (Azure), Docker, and SQL**
+-  I'm currently working on **[Foodie](https://github.com/dom-detorres/Foodie)**, a pantry app I'm building with my partner
+- Recent Project **[Momodex](https://github.com/Hotoke-2026/Momodex)**, a conservation app for logging native NZ wildlife, and
 -  My background is in robotics production and hardware troubleshooting, which led me into full-stack development
--  **Interest:** Love Boardgames, Plants and Bouldering
+-  **Hobbies:** Love Boardgames, Plants and Bouldering
 
 ---
 
 ## 📂 Featured Project
 
 ### 🌿 [Momodex](https://github.com/Hotoke-2026/Momodex)
+
 A conservation-focused web app inspired by iNaturalist, letting users log and share native NZ wildlife sightings.
 - **My Role:** Agile Facilitator, assigning tasks and unblocking issues for the team, while also contributing to development.
 - **Tech:** React, TypeScript, Node, SQL (via Knex), Firebase, Cloudinary, Google Gemini API, iNaturalist API.
-- **The "Why":** Built in a 5-person team in 2 weeks, combining AI image recognition with a custom turn-based game engine.
+- **Project:** Built in a 5-person team in 2 weeks, combining AI image recognition with a custom turn-based game engine.
+<br>
+
+<a href="https://momodex.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Momodex-2ea44f?style=for-the-badge&logo=render" width="180"/>
+</a>
+
 ---
 
 ### Connect with me:
