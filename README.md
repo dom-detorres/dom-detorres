@@ -5,21 +5,19 @@
 </div>
 
 ### Full Stack Developer | Software Developer
-
--  I'm currently working on **[Foodie](https://github.com/dom-detorres/Foodie)**, a pantry app I'm building with my partner
-- Recent Project **[Momodex](https://github.com/Hotoke-2026/Momodex)**, a conservation app for logging native NZ wildlife, and
 -  My background is in robotics production and hardware troubleshooting, which led me into full-stack development
--  **Hobbies:** Love Boardgames, Plants and Bouldering
+-  I'm currently working on **[Foodie](https://github.com/dom-detorres/Foodie)**, a pantry app I'm building with my partner
+- Recent Project **[Momodex](https://github.com/Hotoke-2026/Momodex)**, a conservation app for logging native NZ wildlife and pokemon GO features
+-  Love Boardgames, Plants and Bouldering
 
 ---
-## 📂 Featured Project
+## Projects
 
-### 🌿 [Momodex](https://github.com/Hotoke-2026/Momodex)
+###  [Momodex](https://github.com/Hotoke-2026/Momodex)
 
 A conservation-focused web app inspired by iNaturalist, letting users log and share native NZ wildlife sightings.
 - **My Role:** Agile Facilitator, assigning tasks and unblocking issues for the team, while also contributing to development.
 - **Tech:** React, TypeScript, Node, SQL (via Knex), Firebase, Cloudinary, Google Gemini API, iNaturalist API.
-- **Project:** Built in a 5-person team in 2 weeks, combining AI image recognition with a custom turn-based game engine.
 <br>
 
 <a href="https://momodex.onrender.com/">
