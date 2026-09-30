@@ -1,6 +1,10 @@
-# Heeey! I'm Dom :P
+<div align="center">
 
-### Full Stack Developer | Bringing hardware experience and curiosity to software
+# Heeey! I'm Dom 😎
+
+</div>
+
+### Full Stack Developer | Software Developer
 
 -  I'm currently working on **[Foodie](https://github.com/dom-detorres/Foodie)**, a pantry app I'm building with my partner
 - Recent Project **[Momodex](https://github.com/Hotoke-2026/Momodex)**, a conservation app for logging native NZ wildlife, and
@@ -8,7 +12,6 @@
 -  **Hobbies:** Love Boardgames, Plants and Bouldering
 
 ---
-
 ## 📂 Featured Project
 
 ### 🌿 [Momodex](https://github.com/Hotoke-2026/Momodex)
